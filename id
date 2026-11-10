@@ -1,9 +1,10 @@
 {
-  "_comment": "Add paid/active Device UIDs here.",
+  "_comment": "type.me Active Devices Whitelist",
   "devices": {
     "TYPEME-94D5-383D-29A2": {
       "status": "active",
-      "user": "Demo Client"
+      "user": "Boss / Admin",
+      "activated_at": "2026-11-10"
     }
   },
   "active_list": [
