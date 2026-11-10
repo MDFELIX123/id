@@ -1,13 +1,1 @@
-{
-  "_comment": "type.me Active Devices Whitelist",
-  "devices": {
-    "TYPEME-79C7-016B-A62B": {
-      "status": "active",
-      "user": "Boss / Admin",
-      "activated_at": "2026-11-10"
-    }
-  },
-  "active_list": [
-    "TYPEME-79C7-016B-A62B"
-  ]
-}
+TYPEME-94D5-383D-29A2
