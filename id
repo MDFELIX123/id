@@ -1,1 +1,12 @@
-
+{
+  "_comment": "Add paid/active Device UIDs here.",
+  "devices": {
+    "TYPEME-94D5-383D-29A2": {
+      "status": "active",
+      "user": "Demo Client"
+    }
+  },
+  "active_list": [
+    "TYPEME-94D5-383D-29A2"
+  ]
+}
